@@ -1,16 +1,13 @@
-## Hi there 👋
+# just hustlefinesse, writing code 👋
 
-<!--
-**hustlefinesse/hustlefinesse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building responsive web interfaces with TypeScript & React. Curious about design systems. Based in Australia.
 
-Here are some ideas to get you started:
+- 👯 Open to collaborating on open-source projects
+- 🌍 Based in Australia
+- ☕ Powered by coffee and late-night commits
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=hustlefinesse&hide_border=true&theme=rogue" alt="Contribution graph" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hustlefinesse&hide_border=true&theme=blue-green" alt="Commit streak" />
+
+<img src="https://img.shields.io/badge/Next.js-7aa2f7?style=for-the-badge&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/React-7aa2f7?style=for-the-badge&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/TailwindCSS-7aa2f7?style=for-the-badge&logoColor=white" alt="TailwindCSS" /> <img src="https://img.shields.io/badge/Vite-7aa2f7?style=for-the-badge&logoColor=white" alt="Vite" />
